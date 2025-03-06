@@ -1,1 +1,1 @@
-1
+Hello, I am a first-year graduate student majoring in Computer Technology. I completed my undergraduate studies at the University of Jinan and am currently pursuing my master's degree at Nanjing University of Science and Technology.😀

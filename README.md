@@ -1,11 +1,11 @@
-*From UJN, now in NJUST, dream to NJU.* 😭
+B.S. UJN | M.S. NJUST
 
-*Language CPP, Python, Go.* 😊
+Languages: Modern C++ (Core), Go, Python
 
-*Learning Operating System, Network, Mysql, Redis, Distributed system.* 😁
+Interests: Distributed Systems, Databases
 
-*Love algorithm, but not the machine learning algorithm.* 🤔
+Current: 2026 Summer Intern @ PDD
 
-*Aiming to find a intership this year.* 😄
+Next Steps: Developing LSM Tree & Coroutine Library projects for Autumn campus hire (Targeting Tencent)
 
-*2025 / 3 / 28*
+(Updated: May 8, 2026)

@@ -1,11 +1,9 @@
-B.S. UJN | M.S. NJUST
+本科 UJN，硕士 NJUST
 
-Languages: Modern C++ (Core), Go, Python
+C++、Go、Python
 
-Interests: Distributed Systems, Databases
+C++/Golang 后端，Linux 系统编程，云原生
 
-Current: 2026 Summer Intern @ DiDdi
+秋招ing
 
-Next Steps: Developing LSM Tree & Coroutine Library projects for Autumn campus hire (Targeting Tencent)
-
-(Updated: July 10, 2026)
+(Updated: 2026.9.8)

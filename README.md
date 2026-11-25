@@ -1,9 +1,9 @@
-本科 UJN，硕士 NJUST
+UJN, NJUST
 
-C++、Go、Python
+MetaX, Cloud Native
 
-C++/Golang 后端，Linux 系统编程，云原生
+Go, C++, Docker, Kubernetes
 
-沐曦云原生
+AI Native
 
-(Updated: 2026.11.09)
+UPDATE 2026/11/25
